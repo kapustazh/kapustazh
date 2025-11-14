@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there, I'm Matvii 👋
 
-<!--
-**kapustazh/kapustazh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer and student at 42 Heilbronn, where I'm mastering C and foundational computer science concepts through project-based learning.
 
-Here are some ideas to get you started:
+🔭 What I'm working on: Currently progressing through the 42 Core Curriculum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 What I'm learning: I'm expanding my skills beyond C into Python, focusing on its applications in scripting, data, and web development.
+
+💬 Ask me about: Feel free to ask me about the 42 learning method, C programming, or algorithm optimization.
+
+📫 How to reach me: matvey.nesterenko@gmail.com
+
+💻 Core Languages
+
+C
+
+C++
+
+Python
