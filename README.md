@@ -1,6 +1,6 @@
 # Hi there, I'm Matvii 👋
 
-I'm a software developer and student at **42 Heilbronn**, where I'm mastering C and foundational computer science concepts through project-based learning.
+I'm a software developer and student at **42 Heilbronn**, where I'm mastering C/Python and foundational computer science concepts through project-based learning.
 
 -  **What I'm working on:** Currently progressing through the 42 Core Curriculum
 -  **How to reach me:** matvey.nesterenko@gmail.com
