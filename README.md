@@ -4,7 +4,7 @@ Heilbronn / Stuttgart, Germany · [work@kapustazh.dev](mailto:work@kapustazh.dev
 
 ---
 
-## Projects & Open Source
+## Projects
 
 | Project | Description | Status / Stack |
 |---|---|---|
