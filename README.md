@@ -10,7 +10,7 @@ Heilbronn / Stuttgart, Germany · [work@kapustazh.dev](mailto:work@kapustazh.dev
 |---|---|---|
 | [**DeepTrace**](https://github.com/ikodo0/deeptrace) | Model Context Protocol (MCP) server delivering verifiable DeFi data on Base to AI agents. Enforces source attribution and freshness verification via [NutHatch Indexer](https://github.com/nuthatch-indexer/nuthatch) to eliminate LLM hallucinations. Features 4 agent tools for Uniswap V3 analytics and USDC lending rates. | 🏆 3rd Place: Best AI Tooling ($1,000 The Graph Bounty) @ ETHGlobal Lisbon 2026 · TypeScript · MCP · Base |
 | [**fly_in**](https://github.com/kapustazh/fly_in) | Graph-based drone routing simulator featuring capacity-aware pathfinding algorithms and real-time visual output. | Python · Pygame · Graph Theory |
-| [**pigeon-eye**](https://github.com/Vspaceman11/pigeon-eye) | Mobile-first web application for structured reporting, camera capture flows, and interactive mapping using Leaflet and a real-time reactive backend. | Working Demo · TypeScript · React/Next.js · Convex |
+| [**pigeon-eye**](https://github.com/Vspaceman11/pigeon-eye) | Mobile-first web application for structured reporting, camera capture flows, and interactive mapping using Leaflet and a real-time reactive backend. | Working Demo · TypeScript · React/Next.js · Convex · n8n |
 | [**my_rag**](https://github.com/kapustazh/my_rag) | Retrieval-Augmented Generation pipeline focusing on semantic vector search, custom embeddings, and structured document context retrieval for LLMs. | Active Research · Python · LLM Tooling · Vector Indexing |
 
 ---
