@@ -31,6 +31,7 @@ Python · Pydantic · Constrained decoding
 **[my_rag](https://github.com/kapustazh/my_rag)**  
 A retrieval-augmented generation pipeline built around semantic vector search and custom embeddings. Active research.  
 Python · LLM tooling · Vector indexing
+
 ---
 
 <div align="center">
