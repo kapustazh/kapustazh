@@ -42,11 +42,6 @@ A retrieval-augmented generation pipeline built around semantic vector search an
 
 ---
 
-## Let's talk
-
-Open to software engineering, systems and Web3 roles.
-Write to [work@kapustazh.dev](mailto:work@kapustazh.dev) or find the rest on [kapustazh.dev](https://kapustazh.dev).
-
 <div align="center">
 
 <img src="assets/roses.svg" alt="" width="70%">
