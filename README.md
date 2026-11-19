@@ -4,10 +4,6 @@
 
 # Matvii Nesterenko
 
-*AI engineer. Creative at heart.*
-
-Heilbronn / Stuttgart, Germany · Software Engineering student at 42 Heilbronn
-
 [**Website**](https://kapustazh.dev) · [**Email**](mailto:work@kapustazh.dev) · [**LinkedIn**](https://linkedin.com/in/matvii-nesterenko-1b723a278) · [**CV (PDF)**](https://kapustazh.dev/matvii-nesterenko-cv.pdf)
 
 </div>
